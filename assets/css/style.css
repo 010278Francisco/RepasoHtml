@@ -1,0 +1,19 @@
+table, tr,th, td{
+    border: 1px solid black;
+}
+
+table{
+    width: 400px;
+}
+
+
+.enl{
+    
+    background-color: blue;
+}
+
+#bloque{
+    text-align: center;
+    
+    background-color: red;
+}
